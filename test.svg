@@ -2,7 +2,8 @@
   <style>
     svg {
       position: fixed;
-      content: 'hax by turtl\e';
+      \u003ctest\u003e
+      content: 'hax by turtle';
       background: blue;
       top: 0;
       left: 0;
