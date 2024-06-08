@@ -3,7 +3,7 @@
     svg {
       position: fixed;
       content: 'hax by turtle';
-      background: red;
+      background: blue;
       top: 0;
       left: 0;
       width: 100%;
